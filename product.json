@@ -1,0 +1,45 @@
+
+[
+    {
+        "_id": 1,
+        "productName": "Monster",
+        "description": "Energy Drink",
+        "unitPrice": 4,
+        "productType":"Drink"
+    },
+    {
+        "_id": 2,
+        "productName": "Headphones",
+        "description": "Great sounding",
+        "productType":"Electronic Accessories",
+        "unitPrice": 35
+    },
+    {
+        "_id": 3,
+        "productName": "Breadsticks",
+        "description": "Chesey breadsticks",
+        "productType":"Food",
+        "unitPrice": 3
+    },
+    {
+        "_id": 4,
+        "productName": "Clipboard",
+        "description": "Write on it and hold things in it",
+        "productType":"Tool",
+        "unitPrice": 26
+    },
+    {
+        "_id": 5,
+        "productName": "Calculator",
+        "description": "Graphing calculator",
+        "productType":"Scholar",
+        "unitPrice": 87
+    },
+    {
+        "_id": 6,
+        "productName": "Glass",
+        "description": "Glass cup",
+        "productType":"Kitchen item",
+        "unitPrice": 7
+    }
+]
